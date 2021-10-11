@@ -1,4 +1,4 @@
-## Chapter 3 Challenge by Bonaventura Sunu
+## Chapter 3 Challenge by Afiq Miftahurrizqi Alhaq
 
 ### Demo
 https://bonasunu.github.io/binar-landing-page/
